@@ -1,5 +1,6 @@
 # Frontend_Mentor_Challenges
 
+Solution for the challenges posed in FrontendMentor
 
 | Challenge name  | Technologies  | Repository | Demo |
 | :------------ |:---------------| :-----| :-----|
