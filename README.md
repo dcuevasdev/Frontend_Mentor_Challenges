@@ -4,7 +4,7 @@ Solution for the challenges posed in FrontendMentor
 
 | Challenge name  | Technologies  | Repository | Demo |
 | :------------ |:---------------| :-----| :-----|
-| project tracking intro | HTML - CSS - JavaScript | [Repo](https://github.com/dcuevasdev/project-tracking-intro) | [Web](https://dcuevasdev.github.io/project-tracking-intro/) |
+| Project tracking intro | HTML - CSS - JavaScript | [Repo](https://github.com/dcuevasdev/project-tracking-intro) | [Web](https://dcuevasdev.github.io/project-tracking-intro/) |
 | Product preview | HTML - CSS | [Repo](https://github.com/dcuevasdev/product-preview-card) | [Web](https://dcuevasdev.github.io/product-preview-card/) |
 | QR Code | HTML - CSS | [Repo](https://github.com/dcuevasdev/QR-code-component) | [Web](https://dcuevasdev.github.io/QR-code-component/) |
 | NFT card | HTML - CSS | [Repo](https://github.com/dcuevasdev/nft-card-component) | [Web](https://dcuevasdev.github.io/nft-card-component/) |
