@@ -19,3 +19,4 @@ Solution for the challenges posed in FrontendMentor
 | Clipboard landing page | HTML - CSS - Sass | [Repo](https://github.com/dcuevasdev/clipboard-landing-page) | [Web](https://dcuevasdev.github.io/clipboard-landing-page/) |
 | Card feature section| Sass - HTML - CSS| [Repo](https://github.com/dcuevasdev/card-feature-section-master)| [Web](https://dcuevasdev.github.io/card-feature-section-master/) |
 | Profile card component | Stylus - HTML | [Repo](https://github.com/dcuevasdev/Profile-card-component-main) | [Web](https://dcuevasdev.github.io/Profile-card-component-main/) |
+| Blog Card Preview | CSS - HTML | [Repo](https://github.com/dcuevasdev/blog-preview-card) | [Web](https://dcuevasdev.github.io/blog-preview-card/) |
