@@ -4,6 +4,7 @@ Solution for the challenges posed in FrontendMentor
 
 | Challenge name  | Technologies  | Repository | Demo |
 | :------------ |:---------------| :-----| :-----|
+| Fylo Landing Page | HTML - CSS - Sass | [Repo](https://github.com/dcuevasdev/fylo_Landing_Page/tree/main) | [Web](https://dcuevasdev.github.io/fylo_Landing_Page/) |
 | Project tracking intro | HTML - CSS - Sass - JavaScript | [Repo](https://github.com/dcuevasdev/project-tracking-intro) | [Web](https://dcuevasdev.github.io/project-tracking-intro/) |
 | Product preview | HTML - CSS | [Repo](https://github.com/dcuevasdev/product-preview-card) | [Web](https://dcuevasdev.github.io/product-preview-card/) |
 | QR Code | HTML - CSS | [Repo](https://github.com/dcuevasdev/QR-code-component) | [Web](https://dcuevasdev.github.io/QR-code-component/) |
